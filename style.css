@@ -75,6 +75,12 @@ body {
         margin-top: 8px;
     }
 
+    #profile img:hover {
+        transform: scale(1.1);
+        animation: slide-back 0.4s ;
+        border: 0;
+    }
+
     #switch {
         position: relative;
         width: 64px;
