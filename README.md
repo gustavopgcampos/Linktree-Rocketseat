@@ -1,13 +1,13 @@
-lintree próprio, disponível para edição geral.
+Lintree próprio, disponível para edição geral.
 
-visite aqui: 
+Visite aqui: 
 https://gustavopgcampos.github.io/linktreerocketseat/
 
-certificado:
+Certificado:
 https://app.rocketseat.com.br/certificates/b817a50b-623c-4d48-a1cf-c671b4a6a811
 
-preview dark mode: 
+Preview dark mode: 
 ![Página modo preto linktree](./assets/exemplo.png)
 
-preview white mode: 
+Preview white mode: 
 ![Página modo branco linktree](./assets/exemplo2.png)
