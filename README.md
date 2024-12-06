@@ -1,7 +1,7 @@
 Lintree próprio, disponível para edição geral.
 
 Visite aqui: 
-https://gustavopgcampos.github.io/linktreerocketseat/
+[https://gustavopgcampos.github.io/linktreerocketseat/](https://gustavopgcampos.github.io/Linktree-Rocketseat/)
 
 Certificado:
 https://app.rocketseat.com.br/certificates/b817a50b-623c-4d48-a1cf-c671b4a6a811
