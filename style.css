@@ -2,8 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-attachment:fixed ;
-    background-repeat: no-repeat;
 }
 
 :root {
@@ -40,6 +38,8 @@ body {
     */
 
     background: var(--bg-url) no-repeat top center/cover;
+    background-attachment:fixed ;
+    background-repeat: no-repeat;
     }
     
     body * {
@@ -100,6 +100,7 @@ body {
         z-index: 1;
         transform: translateY(-50%);
         animation: slide-back 0.4s ;
+        transition: left 0.4s;
     }
 
     .light #switch button{
@@ -189,7 +190,7 @@ body {
 
     /*media queries*/
 
-    @media(min-widht: 700px) {
+    @media (min-width: 700px) {
         :root {
             --bg-url: url(./assets/bg-desktop.jpg);
         }
@@ -206,15 +207,15 @@ body {
             right: 0;
         }
         to {
-            right: 32px;
+            right: 32;
         }
     }
 
     @keyframes slide-back {
         from {
-            left: 32px;
+            right: 32;
         }
         to {
-            left: 0;
+            right: 0;
         }
     }
